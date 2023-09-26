@@ -1,6 +1,6 @@
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.facebook.com/nha.quach.18041/)
+[![Facebook](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nha.quach.18041/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im.kitto_/) 
 
